@@ -82,7 +82,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
+  spotify: leonolikeyspotify
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -93,6 +93,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  spotify: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
