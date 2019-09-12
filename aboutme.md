@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: Whatcha Wanna Knah
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Leo. Let's play two truths and a lie.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a cali girl
+- I am a gym bro
+- I am a beach babe
 
-What else do you need?
+
 
 ### my history
 
