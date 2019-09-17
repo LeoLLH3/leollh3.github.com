@@ -1,17 +1,15 @@
 ---
 layout: page
 title: about me
-subtitle: Whatcha Wanna Knah
+subtitle: Leo
 ---
 
-My name is Leo. Let's play two truths and a lie.
+my favorite color is purple
 
-- I am a cali girl
-- I am a gym bro
-- I am a beach babe
+Estoy en mi tercer año en Williams y especializo en estudios de queer teoría.
 
+I was born in Cali, took my first steps in Cincy, learned how to read and write in Spain, and received my diploma in Miami.
 
+### why eTextiles?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+mi abuela me enseñó a coser cuando era joven. I enjoy findings ways to channel her wisdom in my work.
